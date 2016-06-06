@@ -284,7 +284,7 @@ h5 {
 		/*width: 130px;*/
 	}
 	.developer {
-		left: -186px;
+		/*left: -186px;*/
 	}
 }
 
@@ -310,11 +310,11 @@ h5 {
 		display: inline-block;
 	}
 	.developer {
-		left: -170px;
+		left: -166px;
 	}
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 370px){
 	#panel1 #content h2 {
 		font-size: 48px;
 	}
